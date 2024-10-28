@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|c:\\users\\garko\\source\\repos\\curdtodolist\\curdtodolist\\models\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|solutionrelative:curdtodolist\\models\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|c:\\users\\garko\\source\\repos\\curdtodolist\\curdtodolist\\controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|solutionrelative:curdtodolist\\controllers\\listcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|c:\\users\\garko\\source\\repos\\curdtodolist\\curdtodolist\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|solutionrelative:curdtodolist\\dateonlyjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|c:\\users\\garko\\source\\repos\\curdtodolist\\curdtodolist\\models\\listcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|solutionrelative:curdtodolist\\models\\listcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|c:\\users\\garko\\source\\repos\\curdtodolist\\curdtodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|solutionrelative:curdtodolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|c:\\users\\garko\\source\\repos\\curdtodolist\\curdtodolist\\curdtodolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|solutionrelative:curdtodolist\\curdtodolist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|c:\\users\\garko\\source\\repos\\curdtodolist\\curdtodolist\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3111500-E4A5-45BB-B0CE-B04DBB665FBE}|CurdTodoList\\CurdTodoList.csproj|solutionrelative:curdtodolist\\data\\authdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListContext.cs",
+              "DocumentMoniker": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\Models\\ListContext.cs",
+              "RelativeDocumentMoniker": "CurdTodoList\\Models\\ListContext.cs",
+              "ToolTip": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\Models\\ListContext.cs",
+              "RelativeToolTip": "CurdTodoList\\Models\\ListContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:41:18.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateOnlyJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\DateOnlyJsonConverter.cs",
+              "RelativeDocumentMoniker": "CurdTodoList\\DateOnlyJsonConverter.cs",
+              "ToolTip": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\DateOnlyJsonConverter.cs",
+              "RelativeToolTip": "CurdTodoList\\DateOnlyJsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T17:31:03.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "CurdTodoList\\Data\\AuthDbContext.cs",
+              "ToolTip": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "CurdTodoList\\Data\\AuthDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:38:13.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CurdTodoList.csproj",
+              "DocumentMoniker": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\CurdTodoList.csproj",
+              "RelativeDocumentMoniker": "CurdTodoList\\CurdTodoList.csproj",
+              "ToolTip": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\CurdTodoList.csproj",
+              "RelativeToolTip": "CurdTodoList\\CurdTodoList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-27T15:33:12.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\Program.cs",
+              "RelativeDocumentMoniker": "CurdTodoList\\Program.cs",
+              "ToolTip": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\Program.cs",
+              "RelativeToolTip": "CurdTodoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:37:23.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cs",
+              "DocumentMoniker": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\Models\\List.cs",
+              "RelativeDocumentMoniker": "CurdTodoList\\Models\\List.cs",
+              "ToolTip": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\Models\\List.cs",
+              "RelativeToolTip": "CurdTodoList\\Models\\List.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vxEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:11:05.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListController.cs",
+              "DocumentMoniker": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\Controllers\\ListController.cs",
+              "RelativeDocumentMoniker": "CurdTodoList\\Controllers\\ListController.cs",
+              "ToolTip": "C:\\Users\\garko\\source\\repos\\CurdTodoList\\CurdTodoList\\Controllers\\ListController.cs",
+              "RelativeToolTip": "CurdTodoList\\Controllers\\ListController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T13:55:09.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
